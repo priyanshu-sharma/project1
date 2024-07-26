@@ -33,3 +33,21 @@ Problem 2 - https://leetcode.com/problems/running-sum-of-1d-array/
 Problem 1 - https://leetcode.com/problems/second-highest-salary/
 
 Problem 2 - https://leetcode.com/problems/rearrange-products-table/
+
+
+
+
+### Update for 7/26/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/two-sum/
+
+Problem 2 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/managers-with-at-least-5-direct-reports/
+
+Problem 2 - https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
