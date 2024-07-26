@@ -32,4 +32,4 @@ Problem 2 - https://leetcode.com/problems/running-sum-of-1d-array/
 
 Problem 1 - https://leetcode.com/problems/second-highest-salary/
 
-Problem 2 - https://leetcode.com/problems/recyclable-and-low-fat-products/
+Problem 2 - https://leetcode.com/problems/rearrange-products-table/
