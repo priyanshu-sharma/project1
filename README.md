@@ -51,3 +51,21 @@ Problem 2 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Problem 1 - https://leetcode.com/problems/managers-with-at-least-5-direct-reports/
 
 Problem 2 - https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
+
+
+
+
+### Update for 7/29/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/contains-duplicate/
+
+Problem 2 - https://leetcode.com/problems/product-of-array-except-self/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/rank-scores/
+
+Problem 2 - https://leetcode.com/problems/nth-highest-salary/
