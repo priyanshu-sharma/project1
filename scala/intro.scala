@@ -168,6 +168,23 @@ def exercise_19(k: List[(Int, String)], output: scala.collection.immutable.ListM
 	}
 }
 
+
+def add_data(election_data: String, electionMap: scala.collection.immutable.ListMap[String, Int]): scala.collection.immutable.ListMap[String, Int] = {
+	election_data match {
+		case Nil => return electionMap + (election_data -> 1);
+		case (key, value) :: tail => 
+			if (key == election_data) {
+				value = value + 1;
+			}
+	}
+}
+
+def exercise_20(election: List[String]): scala.collection.immutable.ListMap[String, Int] = {
+	val electionMap: scala.collection.immutable.ListMap[String, Int] = scala.collection.immutable.ListMap[String, Int]();
+	election.foreach(election_data => add_data(election_data, electionMap));
+	return electionMap;
+}
+
 @main def entrypoint(): Unit = {
 	println("exercise_1 - " + exercise_1(2, 3));
 	println("exercise_2 - " + exercise_2(10));
@@ -204,4 +221,6 @@ def exercise_19(k: List[(Int, String)], output: scala.collection.immutable.ListM
 	val k: List[(Int, String)] = List((1, "one"), (2, "two"), (3, "three"), (4, "four"));
 	println("exercise_18 - " + exercise_18(k, em));
 	println("exercise_19 - " + exercise_19(k, em));
+	val election: List[String] = List("Hillary","Donald","Hillary");
+	println("exercise_20 - " + exercise_20(election));
 }

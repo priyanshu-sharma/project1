@@ -69,3 +69,21 @@ Problem 2 - https://leetcode.com/problems/product-of-array-except-self/
 Problem 1 - https://leetcode.com/problems/rank-scores/
 
 Problem 2 - https://leetcode.com/problems/nth-highest-salary/
+
+
+
+
+### Update for 7/30/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/maximum-subarray/
+
+Problem 2 - https://leetcode.com/problems/maximum-product-subarray/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/rank-scores/
+
+Problem 2 - https://leetcode.com/problems/nth-highest-salary/
