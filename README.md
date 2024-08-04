@@ -84,6 +84,62 @@ Problem 2 - https://leetcode.com/problems/maximum-product-subarray/
 
 #### SQL
 
-Problem 1 - https://leetcode.com/problems/rank-scores/
+Problem 1 - https://leetcode.com/problems/consecutive-numbers/
 
-Problem 2 - https://leetcode.com/problems/nth-highest-salary/
+Problem 2 - https://leetcode.com/problems/employees-earning-more-than-their-managers/
+
+
+
+
+### Update for 7/31/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/duplicate-emails/
+
+Problem 2 - https://leetcode.com/problems/customers-who-never-order/
+
+
+
+
+### Update for 8/01/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/department-highest-salary/
+
+Problem 2 - https://leetcode.com/problems/department-top-three-salaries/
+
+
+
+
+### Update for 8/02/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/rising-temperature/
+
+Problem 2 - https://leetcode.com/problems/game-play-analysis-i/
+
+

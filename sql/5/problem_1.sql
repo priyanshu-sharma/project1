@@ -1,0 +1,1 @@
+with output_data as (select l1.num as l1_num, l2.num as l2_num, l3.num as l3_num from Logs l1 inner join Logs l2 on l1.id = l2.id + 1 inner join Logs l3 on l2.id = l3.id + 1) select distinct(l1_num) as "ConsecutiveNums" from output_data where output_data.l1_num = output_data.l2_num and output_data.l2_num = output_data.l3_num;
