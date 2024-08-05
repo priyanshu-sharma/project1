@@ -95,9 +95,9 @@ Problem 2 - https://leetcode.com/problems/employees-earning-more-than-their-mana
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/reverse-linked-list/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/number-of-1-bits/
 
 
 #### SQL
@@ -113,9 +113,9 @@ Problem 2 - https://leetcode.com/problems/customers-who-never-order/
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 
 #### SQL
@@ -131,9 +131,9 @@ Problem 2 - https://leetcode.com/problems/department-top-three-salaries/
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/same-tree/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/invert-binary-tree/
 
 
 #### SQL
