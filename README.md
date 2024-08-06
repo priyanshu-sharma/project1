@@ -167,9 +167,9 @@ Problem 2 - https://leetcode.com/problems/market-analysis-i/
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 
 #### SQL

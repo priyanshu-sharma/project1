@@ -298,6 +298,8 @@ Contains photo data including the caption and classification (one of "food", "dr
 1. Review Velocity: Rate at which new reviews are received over time.
 2. Rating Trends: Changes in average rating over time.
 3. Top Keywords: Frequent keywords and phrases in reviews that indicate common praises or complaints.
+4. Year-over-Year Growth: Changes in review count, ratings, and check-ins over time.
+5. Review Length: Average length of reviews, which can indicate the level of detail and customer effort in providing feedback.
 ```
 
 4. Competitive Metrics:
@@ -306,6 +308,9 @@ Contains photo data including the caption and classification (one of "food", "dr
 1. Category Performance: Comparison of ratings and review counts within business categories.
 2. Market Position: Relative performance compared to competitors in the same area or category.
 3. Customer Loyalty: Analysis of repeat reviews and long-term customer engagement.
+4. Geographical Analysis: Performance metrics broken down by location (city, neighborhood) to identify regional trends.
+5. Competitor Ratings and Reviews: Tracking competitors' ratings and reviews to benchmark performance.
+6. Market Share: Estimating market share within a category or region based on review count and check-ins.
 ```
 
 5. Financial Metrics:
@@ -327,74 +332,25 @@ Contains photo data including the caption and classification (one of "food", "dr
 ```
 1. Useful/Funny/Cool Votes: Engagement levels of reviews based on user votes.
 2. Response Rate: Analysis of business responses to reviews (if available).
+3. Review Frequency: The rate at which new reviews are being posted over time. Indicates current customer engagement.
+4. Check-ins: Number of check-ins at a business location. Shows foot traffic and customer visits.
 ```
 
-8. Customer Satisfaction Metrics:
-
-```
-1. Average Rating: The mean of star ratings for a business. Indicates overall customer satisfaction.
-2. Review Sentiment: Sentiment analysis of review text to gauge positive, negative, or neutral sentiments.
-3. Review Count: The total number of reviews a business has received. Reflects popularity and customer engagement.
-```
-
-9. Engagement Metrics:
-
-```
-1. Review Frequency: The rate at which new reviews are being posted over time. Indicates current customer engagement.
-2. Check-ins: Number of check-ins at a business location. Shows foot traffic and customer visits.
-3. User Votes: Votes on reviews (useful, funny, cool) that indicate the level of engagement and helpfulness of reviews.
-```
-
-10. Operational Metrics:
-
-```
-1. Business Hours: Analysis of operating hours and their correlation with check-in data to identify peak hours.
-2. Attributes: Features like parking availability, wheelchair accessibility, outdoor seating, etc., which might influence customer choice.
-```
-
-11. Comparative Metrics:
-
-```
-1. Category Popularity: Number of businesses and average ratings within specific categories (e.g., restaurants, bars, shops).
-2. Geographical Analysis: Performance metrics broken down by location (city, neighborhood) to identify regional trends.
-```
-
-12. Performance Metrics:
-
-```
-1. Year-over-Year Growth: Changes in review count, ratings, and check-ins over time.
-2. Review Length: Average length of reviews, which can indicate the level of detail and customer effort in providing feedback.
-```
-
-13. Customer Demographics:
+8. Customer Demographics:
 
 ```
 1. User Activity: Analyzing user data to understand the demographics and behavior patterns of reviewers.
 2. Top Reviewers: Identifying users who contribute the most reviews and their impact on business ratings.
 ```
 
-14. Competitive Analysis:
-
-```
-1. Competitor Ratings and Reviews: Tracking competitors' ratings and reviews to benchmark performance.
-2. Market Share: Estimating market share within a category or region based on review count and check-ins.
-```
-
-15. Photo Engagement:
+9. Photo Engagement:
 
 ```
 1. Photo Count and Quality: Number of photos posted and their quality (labels, user votes) to assess visual engagement.
 2. Photo Sentiment: Sentiment analysis of photo labels and comments.
 ```
 
-16. Sentiment Analysis:
-
-```
-1. Sentiment Trends: Analyzing changes in sentiment over time to detect shifts in customer perception.
-2. Aspect-based Sentiment: Identifying sentiment related to specific aspects of the business (e.g., service, ambiance, price).
-```
-
-17. User Loyalty:
+10. User Loyalty:
 
 ```
 1. Repeat Reviews: Tracking the number of repeat reviews from the same users to measure customer loyalty.
