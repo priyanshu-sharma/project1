@@ -1,0 +1,12 @@
+-ls
+-cat
+-put
+-get
+-mv
+-cp
+-copyFromLocal
+-copyToLocal
+-getMerge
+-rm
+-fsck = hadoop fsck UKUSJULHDFS -blocks -locations
+-appendToFile

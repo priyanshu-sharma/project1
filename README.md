@@ -143,3 +143,37 @@ Problem 1 - https://leetcode.com/problems/rising-temperature/
 Problem 2 - https://leetcode.com/problems/game-play-analysis-i/
 
 
+
+
+### Update for 8/05/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/subtree-of-another-tree/
+
+Problem 2 - https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/customers-who-bought-all-products/
+
+Problem 2 - https://leetcode.com/problems/market-analysis-i/
+
+
+
+
+### Update for 8/06/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/product-sales-analysis-iii/
+
+Problem 2 - https://leetcode.com/problems/project-employees-i/
