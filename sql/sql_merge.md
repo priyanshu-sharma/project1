@@ -85,23 +85,16 @@ VALUES
 
 7. Use merge statement to update customer_backup table using customer table.
 
-Added constraints on customer_backup to make cid as Primary key
-
 ```
-ALTER TABLE customer_backup
-ADD CONSTRAINT customer_backup_pkey PRIMARY KEY (cid);
-
-```
-
-And then updated the missin entry in customer_back using ON CONFLICT
-
-```
-INSERT INTO customer_backup (cid, name, email, lastChange)
-SELECT cid, name, email, lastChange
-FROM customer
-ON CONFLICT (cid) 
-DO UPDATE SET
-    name = EXCLUDED.name,
-    email = EXCLUDED.email,
-    lastChange = EXCLUDED.lastChange;
+MERGE INTO customer_backup cb
+USING customer c ON cb.cid = c.cid
+WHEN NOT MATCHED THEN
+   INSERT (cid, name, email, lastChange)
+   VALUES(c.cid, c.name, c.email, c.lastChange)
+WHEN MATCHED THEN
+   UPDATE SET
+      cid = c.cid,
+      name = c.name,
+      email = c.email,
+      lastChange = c.lastChange;
 ```
