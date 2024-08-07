@@ -177,3 +177,21 @@ Problem 2 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 Problem 1 - https://leetcode.com/problems/product-sales-analysis-iii/
 
 Problem 2 - https://leetcode.com/problems/project-employees-i/
+
+
+
+
+### Update for 8/07/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/valid-palindrome/
+
+Problem 2 - https://leetcode.com/problems/valid-parentheses/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/immediate-food-delivery-ii/
+
+Problem 2 - https://leetcode.com/problems/count-salary-categories/
