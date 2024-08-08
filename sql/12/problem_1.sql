@@ -1,0 +1,6 @@
+with total_requests as (
+    select t.request_at, count(*) as total_requests from Trips t inner join Users u on t.client_id = u.users_id inner join Users u1 on t.driver_id = u1.users_id where t.request_at >= '2013-10-01' and t.request_at <= '2013-10-03' and u.banned = 'No' and u1.banned = 'No' group by t.request_at 
+), total_cancellation as (
+    select t.request_at, count(*) as total_cancellation from Trips t inner join Users u on t.client_id = u.users_id inner join Users u1 on t.driver_id = u1.users_id where t.request_at >= '2013-10-01' and t.request_at <= '2013-10-03' and u.banned = 'No' and u1.banned = 'No' and t.status in ( 'cancelled_by_client', 'cancelled_by_driver') and u.role = 'client' and u1.role = 'driver' group by t.request_at
+), final_data as (select tr.request_at, tr.total_requests, case when tc.total_cancellation is null then 0 else tc.total_cancellation end as total_cancel from total_requests tr left join total_cancellation tc on tr.request_at = tc.request_at ) 
+select request_at as Day, round((total_cancel * 1.0 / total_requests * 1.0), 2) as "Cancellation Rate" from final_data;

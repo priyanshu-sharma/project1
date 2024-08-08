@@ -195,3 +195,21 @@ Problem 2 - https://leetcode.com/problems/valid-parentheses/
 Problem 1 - https://leetcode.com/problems/immediate-food-delivery-ii/
 
 Problem 2 - https://leetcode.com/problems/count-salary-categories/
+
+
+
+
+### Update for 8/07/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/trips-and-users/
+
+Problem 2 - https://leetcode.com/problems/monthly-transactions-i/
