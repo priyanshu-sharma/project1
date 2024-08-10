@@ -199,13 +199,13 @@ Problem 2 - https://leetcode.com/problems/count-salary-categories/
 
 
 
-### Update for 8/07/2024
+### Update for 8/08/2024
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/linked-list-cycle/
 
 
 #### SQL
@@ -213,3 +213,21 @@ Problem 2 -
 Problem 1 - https://leetcode.com/problems/trips-and-users/
 
 Problem 2 - https://leetcode.com/problems/monthly-transactions-i/
+
+
+
+
+### Update for 8/09/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/merge-two-sorted-lists/
+
+Problem 2 - https://leetcode.com/problems/missing-number/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/capital-gainloss/
+
+Problem 2 - https://leetcode.com/problems/odd-and-even-transactions/
