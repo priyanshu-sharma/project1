@@ -231,3 +231,21 @@ Problem 2 - https://leetcode.com/problems/missing-number/
 Problem 1 - https://leetcode.com/problems/capital-gainloss/
 
 Problem 2 - https://leetcode.com/problems/odd-and-even-transactions/
+
+
+
+
+### Update for 8/12/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/clone-graph/
+
+Problem 2 - https://leetcode.com/problems/container-with-most-water/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/confirmation-rate/
+
+Problem 2 - https://leetcode.com/problems/movie-rating/
