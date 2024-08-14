@@ -257,9 +257,9 @@ Problem 2 - https://leetcode.com/problems/movie-rating/
 
 #### Python 
 
-Problem 1 - 
+Problem 1 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
-Problem 2 - 
+Problem 2 - https://leetcode.com/problems/set-matrix-zeroes/
 
 
 #### SQL
