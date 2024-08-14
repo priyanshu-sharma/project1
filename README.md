@@ -249,3 +249,21 @@ Problem 2 - https://leetcode.com/problems/container-with-most-water/
 Problem 1 - https://leetcode.com/problems/confirmation-rate/
 
 Problem 2 - https://leetcode.com/problems/movie-rating/
+
+
+
+
+### Update for 8/13/2024
+
+#### Python 
+
+Problem 1 - 
+
+Problem 2 - 
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/sales-person/
+
+Problem 2 - https://leetcode.com/problems/exchange-seats/
