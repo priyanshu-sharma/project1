@@ -267,3 +267,21 @@ Problem 2 - https://leetcode.com/problems/set-matrix-zeroes/
 Problem 1 - https://leetcode.com/problems/sales-person/
 
 Problem 2 - https://leetcode.com/problems/exchange-seats/
+
+
+
+
+### Update for 8/14/2024
+
+#### Python 
+
+Problem 1 - https://leetcode.com/problems/valid-anagram/
+
+Problem 2 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+
+
+#### SQL
+
+Problem 1 - https://leetcode.com/problems/product-sales-analysis-i/
+
+Problem 2 - https://leetcode.com/problems/tree-node/
