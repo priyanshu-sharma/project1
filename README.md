@@ -285,3 +285,21 @@ Problem 2 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-lis
 Problem 1 - https://leetcode.com/problems/product-sales-analysis-i/
 
 Problem 2 - https://leetcode.com/problems/tree-node/
+
+
+
+
+### Update for 8/15/2024
+
+#### Python
+
+Problem 1 - https://leetcode.com/problems/add-two-numbers/
+
+Problem 2 - https://leetcode.com/problems/merge-nodes-in-between-zeros/
+
+
+#### SQL
+
+Problem 1 - 
+
+Problem 2 - 
